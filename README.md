@@ -33,7 +33,7 @@ Credit card fraud detection is a highly imbalanced classification problem where 
 ## Results
 Random Forest and Gradient Boosting performed best with high recall and F1-score.
 
-## 📂Dataset
+## Dataset
 - Dataset is not included due to size.  
 - You can download it from: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
